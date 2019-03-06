@@ -9,5 +9,6 @@
 
 ![N|Solid](https://github.com/muhammeteminturgut/BasitDirencHesaplayici/blob/master/screenshot.png?raw=true)
 
-###Lisans
+Lisans
+----
 ![N|Solid](https://www.gnu.org/graphics/gplv3-127x51.png)

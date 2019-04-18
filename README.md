@@ -1,6 +1,6 @@
 ﻿# Basit Direnç Hesaplayıcı
 - Dört ve beş bantlı dirençleri renk koduna göre direnç değerini hesaplamaya yarar.
-- Python 3 ile yazılmış ve Tkinter GUI Framework kullanılmıştır.
+- Python 3 ile yazılmış ve Tkinter GUI kütüphanesi kullanılmıştır.
 
 **Bilinen Buglar**
 - Direnç değer aralığı hesaplanırken basamak sayısı kaybı düzeltilmeli. gerekiyorsa prefix kullanılmalı.
